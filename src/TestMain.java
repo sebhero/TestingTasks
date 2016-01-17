@@ -4,7 +4,6 @@
 public class TestMain {
 	public static void main(String[] args) {
 
-		// TODO: 2016-01-17 test fixing
 		System.out.println("hello world");
 	}
 }
