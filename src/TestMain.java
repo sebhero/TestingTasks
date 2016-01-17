@@ -4,7 +4,7 @@
 public class TestMain {
 	public static void main(String[] args) {
 
-		//fixed stuff
+		//resolved issue
 		System.out.println("hello world");
 	}
 }
